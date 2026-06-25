@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_competencies-form",
+  "builds": {
+    "moodle-availability_competencies-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
