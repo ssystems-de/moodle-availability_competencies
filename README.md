@@ -1,7 +1,7 @@
 moodle-availability_competencies
 ================================
 
-[![Moodle Plugin CI](https://github.com/ssystems-de/moodle-availability_competencies/actions/workflows/moodle-plugin-ci.yml/badge.svg?branch=main)](https://github.com/ssystems-de/moodle-availability_competencies/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3Amain)
+[![Moodle Plugin CI](https://github.com/ssystems-de/moodle-availability_competencies/actions/workflows/moodle-plugin-ci.yml/badge.svg?branch=MOODLE_501_STABLE)](https://github.com/ssystems-de/moodle-availability_competencies/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3AMOODLE_501_STABLE)
 
 Moodle availability condition that restricts access to activities and course sections until a learner has achieved global proficiency in a selected course competency.
 
@@ -9,7 +9,7 @@ Moodle availability condition that restricts access to activities and course sec
 Requirements
 ------------
 
-This plugin requires Moodle 5.2+
+This plugin requires Moodle 5.1+
 
 
 Motivation for this plugin
