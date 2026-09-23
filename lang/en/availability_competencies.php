@@ -22,6 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+$string['cachedef_proficiencies'] = 'Proficiency of a user across all competencies';
 $string['competencies:addinstance'] = 'Add competency availability restrictions';
 $string['description'] = 'Require learners to have achieved a competency.';
 $string['error_selectcompetency'] = 'Select a competency.';
