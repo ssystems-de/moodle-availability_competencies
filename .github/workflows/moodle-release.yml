@@ -1,10 +1,9 @@
 name: Moodle Plugin Release
 
 on:
-  # Do not trigger a release automatically for now.
-  # push:
-  #   tags:
-  #     - v*
+  push:
+    tags:
+      - v*
   workflow_dispatch:
     inputs:
       tag:
